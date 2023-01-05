@@ -1,0 +1,22 @@
+﻿  Bitmap.cpp
+  Camera.cpp
+  Framework.cpp
+  Matrix.cpp
+  MD2Loader.cpp
+  Model.cpp
+  Polygon3D.cpp
+  Rasteriser.cpp
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(40,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(193,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(205,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(217,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(229,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(241,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(253,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(265,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(277,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\suift\Desktop\Base_Framework_new\Rasteriser\Rasteriser.cpp(289,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Vector3D.cpp
+  Vertex.cpp
+  Generating Code...
+  Rasteriser.vcxproj -> C:\Users\suift\Desktop\Base_Framework_new\x64\Debug\Rasteriser.exe
